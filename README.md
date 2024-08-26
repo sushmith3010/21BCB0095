@@ -4,7 +4,7 @@ Turn-Based chess-like Game with WebSocket Communication . This project is a real
 
 ## Prerequisites
 - **Node.js**: Ensure that Node.js is installed on your system.
-- **Web Browser**: Any modern web browser (e.g., Chrome, Firefox, Edge) to run the client.
+- **Web Browser**: Any modern web browser to run the client.
 
 ## <b>Setup Instructions</b>
 
