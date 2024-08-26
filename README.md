@@ -7,7 +7,6 @@ Turn-Based chess-like Game with WebSocket Communication . This project is a real
 - **Web Browser**: Any modern web browser to run the client.
 
 ## <b>Setup Instructions</b>
-
 <b>1. Clone the Repository</b>
 Clone this repository to your local machine using:
                 
@@ -74,7 +73,6 @@ Game Setup
 - Players arrange their characters on their respective starting rows.
 
 ### Characters and Movement
-
 1. *Pawn*:
    - Moves one block in any direction (Left, Right, Forward, Backward).
    - Example command: P1:L (Pawn 1 moves Left).
@@ -102,4 +100,4 @@ Game Setup
 Contact
 </b>                    
 </br>
-    For any questions or issues, please contact sushmithkotagiri@gmail.com
+    For any questions or issues, please contact sushmithkotagiri@gmail.com 
