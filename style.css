@@ -1,0 +1,34 @@
+#game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+#board {
+    display: grid;
+    grid-template-columns: repeat(5, 50px);
+    grid-template-rows: repeat(5, 50px);
+    gap: 5px;
+}
+
+.cell {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cell[data-player="A"] {
+    background-color: rgb(188, 230, 173);
+}
+
+.cell[data-player="B"] {
+    background-color: rgb(128, 165, 240);
+}
+
+#controls {
+    margin-top: 20px;
+}

@@ -2,11 +2,11 @@
 Turn-Based chess-like Game with WebSocket Communication . This project is a real-time, turn-based game inspired by chess, developed with a server-client architecture using WebSocket for communication.
 
 
-# Prerequisites
+## Prerequisites
 - **Node.js**: Ensure that Node.js is installed on your system.
 - **Web Browser**: Any modern web browser (e.g., Chrome, Firefox, Edge) to run the client.
 
-# <b>Setup Instructions</b>
+## <b>Setup Instructions</b>
 
 <b>1. Clone the Repository</b>
 Clone this repository to your local machine using:
@@ -73,7 +73,8 @@ Game Setup
 - Each player controls 5 characters: a mix of Pawns, Hero1, and Hero2.
 - Players arrange their characters on their respective starting rows.
 
-# Characters and Movement
+### Characters and Movement
+
 1. *Pawn*:
    - Moves one block in any direction (Left, Right, Forward, Backward).
    - Example command: P1:L (Pawn 1 moves Left).
@@ -88,8 +89,8 @@ Game Setup
    - Eliminates any opponent's character in its path.
    - Example command: H2:BR (Hero2 moves Backward-Right).
 
+### Game Flow
 
-# Game Flow
 - Players alternate turns, making one move per turn.
 - If a character lands on an opponent's character, the opponent's character is removed.
 - Invalid moves are not allowed, and players must retry their turn if an invalid move is made.
