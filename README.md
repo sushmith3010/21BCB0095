@@ -10,7 +10,7 @@ Turn-Based chess-like Game with WebSocket Communication . This project is a real
 <b>1. Clone the Repository</b>
 Clone this repository to your local machine using:
                 
-    git clone https://github.com/sushmith3010/21BCB0095.git
+    git clone https://github.com/sushmith3010/KOTAGIRI_SUSHMITH_21BCB0095.git
 
 cd project
 
